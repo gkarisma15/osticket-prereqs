@@ -22,11 +22,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- item 1 ensure your device has an active internet connection to download OS tickets 
-- item 2 your device must meet the minimum system requirements for OS tickets
-- Item 3 you should have sufficent storage space to install OS Tickets
-- item 4 A supported web server like Apache or Nginx must be installed on your system
-- Item 5 PHP 7.4 or higher and MYSQL 5.6 or higher are required for OS tickets to function properly
+- item 1 Ensure your device has an active internet connection to download OS tickets. 
+- item 2 Your device must meet the minimum system requirements for OS tickets.
+- Item 3 You should have sufficent storage space to install OS Tickets.
+- item 4 A supported web server like Apache or Nginx must be installed on your system.
+- Item 5 PHP 7.4 or higher and MYSQL 5.6 or higher are required for OS tickets to function properly.
 
 <h2>Installation Steps</h2>
 " 
