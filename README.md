@@ -35,7 +35,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 # osticket-prereqs<p align="center"><img width="1205" alt="image" src="https://github.com/user-attachments/assets/b3961ef7-ade4-445d-8cf9-aff6d4347204" />
 
 # osticket-prereqs<p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+ alt="osTicket logo"/>
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
